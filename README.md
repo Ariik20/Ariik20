@@ -5,23 +5,10 @@
 📊 Passionate about data analytics, statistics, and software development.
 
 🌱 Currently learning:
-- SQL
-- Power BI
-- Python
-- Machine Learning
-- Natural Language Processing (NLP)
+- SQL, Power BI, Python
 
 ### 🛠️ Skills
-- Python
-- SQL
-- Excel
-- Power BI
-- Stata
-- JavaScript
-- React
-- Node.js
-- MongoDB
-- Git & GitHub
+- Python, Stata, JS, React, Node.js, Git & GitHub
 
 ### 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/ariik-kook-ring/
