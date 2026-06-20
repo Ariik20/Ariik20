@@ -1,11 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Arikk Kook Ring Ariik
 
--🔭 I’m currently working on ...
-- 🌱 I’m currently learning Typescript, CI/CD
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Data, Data Governace, Python
-- 📫 How to reach me: .IG @4rick1.0
-- 😄 Pronouns: ...
-- ⚡ Fun fact: UFC Fan 
--->
+### Data Analyst | Full Stack | IT technician
+
+📊 Passionate about data analytics, statistics, and software development.
+
+🌱 Currently learning:
+- SQL
+- Power BI
+- Python
+- Machine Learning
+- Natural Language Processing (NLP)
+
+### 🛠️ Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Stata
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Git & GitHub
+
+### 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ariik-kook-ring/
+  
