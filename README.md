@@ -1,4 +1,4 @@
-# Hi 👋, I'm Arikk Kook Ring Ariik
+#                                           Hi 👋, I'm Ariik 
 
 ### Data Analyst | Full Stack | IT technician
 
